@@ -1,0 +1,71 @@
+.entry-content {
+	blockquote,
+	.wp-block-quote {
+		@include blockMobileDisplay();
+
+		&:not(.is-style-large) {
+			border-left: $block__quote--border-width solid $black;
+			padding-left: 20px;
+
+			p {
+				font-family: $font__heading;
+				font-size: $font__size-md;
+				font-style: normal;
+				font-weight: $font__weight-heading;
+
+				@media screen and (min-width: 600px) {
+					font-size: $font__size-mdlrg;
+				}
+			}
+
+			cite {
+				font-family: $block__quote--cite-font;
+			}
+		}
+
+		p {
+			line-height: 1.4;
+
+			&:last-of-type {
+				margin-bottom: 0;
+			}
+		}
+
+		cite {
+			color: $gray;
+			display: block;
+			font-size: $font__size-xs;
+			margin-top: 8px;
+		}
+
+		&.is-style-large {
+			border-left: none;
+			margin: $content__spacer auto !important;
+			padding-left: 50px;
+
+			@media screen and (min-width: $content__media-query) {
+				margin-bottom: $content__spacer + 12px !important;
+				margin-top: $content__spacer + 12px !important;
+				padding-left: 60px;
+			}
+
+			p:first-of-type {
+				font-size: $font__size-md;
+				font-style: italic;
+				line-height: 1.5;
+
+				@media screen and (min-width: 600px) {
+					font-size: $font__size-mdlrg;
+					line-height: 1.4;
+				}
+			}
+
+			cite {
+				font-size: $font__size-sm;
+				font-style: italic;
+				margin-top: 0.75em;
+				text-align: inherit;
+			}
+		}
+	}
+}

@@ -1,0 +1,106 @@
+#sub-accordion-section-forte_theme_options {
+
+	.customize-control-themebeans-title {
+		margin-bottom: 10px;
+		border-top: 1px solid #dcdcdc;
+		padding-top: 20px;
+
+		.customize-control-title {
+			margin-bottom: 0;
+			font-weight: 400;
+			color: #656a6f;
+		}
+
+		&#customize-control-general_title {
+			border: 0;
+			padding-top: 0;
+		}
+	}
+
+	.customize-control-title {
+		font-weight: 500;
+	}
+
+	.customize-control-themebeans-toggle {
+		margin-bottom: 12px;
+
+		.customize-control-title {
+			margin-bottom: 2px;
+		}
+
+		.customize-control-description {
+			padding-right: 60px;
+		}
+	}
+
+	.customize-control-description {
+		color: #656a6f;
+		font-style: normal;
+	}
+
+	input[type="text"] {
+		border-radius:3px;
+		box-shadow: none;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		padding-left: 8px;
+
+		&:focus {
+			box-shadow: 0 0 2px rgba(30, 140, 190, .8);
+		}
+	}
+
+	textarea {
+		border-radius:3px;
+		box-shadow: none;
+
+		&:focus {
+			box-shadow: 0 0 2px rgba(30, 140, 190, .8);
+		}
+	}
+
+	.customize-control-select {
+		position: relative;
+
+		.customize-control-description {
+			margin-top: -4px;
+			margin-bottom: 12px;
+		}
+
+		&::after {
+			font: 400 11px/11px dashicons;
+			content: "\f341";
+			position: absolute;
+			right: 8px;
+			bottom: 9px;
+			transform: rotate(-90deg);
+		}
+
+		select {
+			box-shadow: none;
+			margin: 0;
+			background: #fff;
+			padding: 0;
+			line-height: 22px;
+			height: 30px;
+			appearance: none;
+			padding-left: 8px;
+			color: #555d66;
+			cursor: pointer;
+			font-weight: normal;
+			font-size: 13px;
+			border-radius: 3px;
+			width: calc( 100% - 46px );
+			width: 100%;
+
+			&:hover {
+				border-color: #5b9dd9;
+				box-shadow: 0 0 2px rgba(30, 140, 190, .8);
+			}
+
+			&::-ms-expand {
+				display: none;
+			}
+		}
+	}
+}
