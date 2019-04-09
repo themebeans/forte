@@ -1,0 +1,203 @@
+** Forte Changelog **
+
+05 April 2019, Version 2.1.6
+	* New: Add support for the new `wp_body_open` hook in WordPress 5.2+
+	* Fix: Adjust Alert block typography control functionality
+	* Tweak: Add proper styling for the new <code> format within the block editor
+	* Tweak: Admin 1.6.1
+
+08 March 2019, Version 2.1.5
+	* Tweak: Adjust core Button block styling
+
+14 February 2019, Version 2.1.4
+	* Tweak: Improve squared Button block style
+	* Tweak: Improve how the mobile Twitter share button works
+
+06 January 2019, Version 2.1.3
+	* Tweak: Improve caption link style
+	* Tweak: Add appropriate blockquote fallback
+	* Tweak: Improve metabox styling within Gutenberg
+	* Tweak: Adjust Customizer toggles to reflect WordPress 5.0 toggles
+
+13 December 2018, Version 2.1.2
+	* New: Add support for the Merlin WP theme setup wizard 🧙‍♂️
+	* Tweak: Minor editor-related style improvements
+	* Tweak: Improve styling of non hero-area media
+	* Tweak: Improve styling of the CoBlocks Author block
+
+05 December 2018, Version 2.1.1
+	* New: Supports WordPress 5.0 🔥
+	* New: Update styles for the Gutenberg block editor
+	* Tweak: Adjust Customizer toggles to reflect WordPress 5.0 toggles
+	* Tweak: Clean up the UI of the Customizer Theme Options
+	* Tweak: Remove the Gutenberg plugin from the list of suggested plugins
+	* Tweak: Adjust button block front-end style
+
+30 November 2018, Version 2.1.0
+	* New: Update styles for the Gutenberg block editor
+	* New: Add compatibility for WordPress 5.0
+	* New: Add support for responsive embeds
+	* New: Add support for styling heading targets
+	* New: Add additional support for CoBlocks - https://coblocks.com
+	* New: Add support for Block Gallery - https://wpblockgallery.com
+	* New: Update styles for the Gutenberg block editor
+	* New: Add custom editor font sizes
+	* Tweak: Add support for full and wide alignments
+	* Remove: Fitvids.js, as Forte now supports responsive embeds by default
+
+01 October 2018, Version 2.0.4
+	* New: Add support for Block Gallery, gallery Gutenberg Blocks - https://wpblockgallery.com
+	* Fix: Comment textarea field overflow issue
+
+01 October 2018, Version 2.0.3
+	* Fix: Youtube video post format now display properly
+
+12 September 2018, Version 2.0.2
+	* New: Gutenberg 3.8 support
+	* Tweak: Gallery block front-end adjustments
+
+23 August 2018, Version 2.0.1
+	* New: Add full support for Gutenberg!
+	* New: Rewrite documentation to reflect changes in the new framework
+	* New: Start migrating all older metaboxes to use the CMB2 framework
+	* New: Update admin to v1.4.5
+
+21 May 2018, Version 2.0.0
+	* New: Concated styles and scripts for faster performance
+	* New: Core custom logo functionality and auto-migration
+	* New: Custom logo width options for desktop and mobile viewports
+	* New: Latest ThemeBeans framework upgrade with modern coding standards and build scripts in place
+	* New: License Customizer control for managing your theme license
+	* New: Minify Customizer JS and editor stylesheet assets with auto-prefixing
+	* New: SCSS support with auto browser auto-prefixing
+	* New: TGM Plugin Activation support with recommended plugins
+	* New: Underscore JS Customizer controls for improved Customizer speed
+	* New: WordPress 4.7- backwards compatibility notice
+	* Tweak: Add recommeded security audit optimizations
+	* Tweak: Debug mode works with minified asset delivery throughout the entire theme
+	* Tweak: Function names with proper "forte_" prefixes, instead of "bean_"
+	* Tweak: Improve Customizer settings with proper organization
+	* Tweak: Improve Customizer UI
+	* Tweak: Move /assets/js/ to /assets/js/{source}
+	* Tweak: PHPCS code formatting
+	* Tweak: Prepare for Gutenberg compatibility
+	* Tweak: Remove legacy framework code
+	* Tweak: Remove the Customizer Login Logo options, in lieu of (Login Designer)[https://wordpress.org/plugins/login-designer]
+	* Tweak: Remove the dashboard license widget (because we have the new Customizer License Key control)
+	* Tweak: Updated child theme
+	* Tweak: Updated languages
+	* Remove: Remove built-in contact template, in lieu of plugin functionaly, like (Contact Form 7)[https://wordpress.org/plugins/contact-form-7]
+
+30 November 2017, Version 1.5.0
+	* New: Support for MailChimp for WordPress
+	* Tweak: Comment form cancel button display
+	* Remove: support for Mailbag (as it's no longer in development)
+	* Remove: Retina.js support in lieu of built-in retina capabilitites
+	* Remove: Customizer custom CSS module, in lieu of Simple Custom CSS [https://wordpress.org/plugins/simple-custom-css]
+	* Remove: SEO settings, in lieu of Yoast SEO [https://wordpress.org/plugins/wordpress-seo]
+
+24 August 2017, Version 1.4.5
+	* New: Conditional checks for Envato Hosted accounts
+
+17 February 2017, Version 1.4.4
+	* Fix: Blogroll display error, when you're displaying 20+ posts
+
+08 December 2016, Version 1.4.3
+	* Tweak: WordPress 4.7 touchups
+	* Tweak: Custom CSS -> WP Core CSS migration
+	* Tweak: Updated pingback header
+	* Tweak: Updated languages
+
+21 March 2016, Version 1.4.2
+	 * Fix: Resolve site-icon admin bug
+	 * New: Support for WordPress title-tag
+	 * Tweak: Improve Jetpack Blog Subscriptions widget styling
+	 * Tweak: Improve Mailbag styling
+	 * Tweak: Performance improvments
+	 * Tweak: Updated languages
+
+
+26 January 2016, Version 1.4.1
+	 * Single post layout fixes
+	 * Updated languages
+
+
+25 January 2016, Version 1.4.0
+	 * EDD_Theme_Updater Update
+	 * Dynamic Sidebar WP 4.4 fix
+	 * Improved fullscreen images and blockquotes
+	 * Backwards compatibility functionality
+	 * Updated languages
+
+
+18 December 2015, Version 1.3.2
+	* WP 4.4 comments fix
+	* Contact template now uses wp_mail mailing function
+	* Updated languages
+
+
+31 August 2015, Version 1.3.1
+	* 100% GPL license
+
+
+25 August 2015, Version 1.3.0
+	* Theme Customizer update
+	* 4.3 widget __construct update
+	* Framework updated to v2.6.2.2
+	* Updated languages
+
+
+7 July 2015, Version 1.2.1
+	* Minified CSS
+	* Framework updated to v2.2.5
+	* Updated languages
+
+
+30 April 2015, Version 1.2.0
+	* XSS fix
+	* Theme Customizer UI improvements
+	* forte_custom_form_filters comments 4.2+ fix
+	* Framework updated to v2.2.5
+	* Updated languages
+
+
+2 March 2015, Version 1.1.2
+	* Disqus comments plugin support (NEW)
+
+
+1 March 2015, Version 1.1.1
+	* Password protected post update
+	* Visual post editor touch ups
+	* Updated languages
+
+
+12 February 2015, Version 1.1.0
+	* Support for the free Bean Team plugin (NEW)
+	* Fixed post-to-post categorized navigation
+	* Added if post_thumbnail to pages
+	* Updated languages
+
+
+5 February 2015, Version 1.0.4
+	* Mailbag password protected update
+	* Updated languages
+
+
+4 February 2015- Version 1.0.3
+	* Added iframe embedded video background support
+	* Safari/iOS mobile optimizations
+	* Updated languages
+
+
+3 February 2015, Version 1.0.2
+	* Skrollr body id tag fix (Android)
+	* Updated languages
+
+
+2 February 2015, Version 1.0.1
+	* Safari comments fix
+	* Updated languages
+
+
+1 February 2015, Version 1.0.0
+	* Initial release

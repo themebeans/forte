@@ -1,0 +1,760 @@
+# Copyright (C) 2019 Forte
+# This file is distributed under the same license as the Forte package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Forte\n"
+"Report-Msgid-Bugs-To: https://themebeans.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Rich Tabor of ThemeBeans\n"
+"Language-Team: ThemeBeans\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:25
+msgid "We couldn’t find the page you were looking for."
+msgstr ""
+
+#: 404.php:26
+msgid "Click here to go to the homepage"
+msgstr ""
+
+#: comments.php:32
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:32
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:36, comments.php:52
+msgid "Comments are now closed."
+msgstr ""
+
+#: comments.php:97
+msgid "Trackbacks."
+msgstr ""
+
+#: content-hidden-sidebar.php:18
+msgid "Menu"
+msgstr ""
+
+#: content-post-rcp-btns.php:9
+msgid "Subscribe Today"
+msgstr ""
+
+#: content-post-rcp-btns.php:12
+msgid "Login"
+msgstr ""
+
+#: content-post-related.php:44, content-post-related.php:51, index.php:60, index.php:67, search.php:53, search.php:60
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-post-related.php:66, index.php:94, search.php:87, single.php:130
+msgid "on "
+msgstr ""
+
+#: functions.php:91
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:92
+msgid "Mobile Navigation"
+msgstr ""
+
+#: functions.php:156
+msgid "Black"
+msgstr ""
+
+#: functions.php:161
+msgid "Gray"
+msgstr ""
+
+#: functions.php:166
+msgid "Light Gray"
+msgstr ""
+
+#: functions.php:171
+msgid "White"
+msgstr ""
+
+#: functions.php:176
+msgid "Titan White"
+msgstr ""
+
+#: functions.php:181
+msgid "Tropical Blue"
+msgstr ""
+
+#: functions.php:186
+msgid "Peppermint"
+msgstr ""
+
+#: functions.php:191
+msgid "Iceberg"
+msgstr ""
+
+#: functions.php:196
+msgid "Bridesmaid"
+msgstr ""
+
+#: functions.php:201
+msgid "Pipi"
+msgstr ""
+
+#: functions.php:206
+msgid "Accent"
+msgstr ""
+
+#: functions.php:221
+msgid "Small"
+msgstr ""
+
+#: functions.php:222
+msgid "S"
+msgstr ""
+
+#: functions.php:227
+msgid "Medium"
+msgstr ""
+
+#: functions.php:228
+msgid "M"
+msgstr ""
+
+#: functions.php:233
+msgid "Large"
+msgstr ""
+
+#: functions.php:234
+msgid "L"
+msgstr ""
+
+#: functions.php:239
+msgid "Huge"
+msgstr ""
+
+#: functions.php:240
+msgid "XL"
+msgstr ""
+
+#: functions.php:274
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:276
+msgid "Widget area for the hidden sidebar."
+msgstr ""
+
+#: functions.php:287
+msgid "Footer Col 1"
+msgstr ""
+
+#: functions.php:289
+msgid "Widget area for the first footer area."
+msgstr ""
+
+#: functions.php:299
+msgid "Footer Col 2"
+msgstr ""
+
+#: functions.php:301
+msgid "Widget area for the second footer area."
+msgstr ""
+
+#: functions.php:311
+msgid "Footer Col 3"
+msgstr ""
+
+#: functions.php:313
+msgid "Widget area for the third footer area."
+msgstr ""
+
+#: functions.php:397
+msgctxt "Cabin font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:404
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:475
+msgid "To view this protected post enter the password below:"
+msgstr ""
+
+#: functions.php:496
+msgid "<cite class=\"fn\">%s</cite> "
+msgstr ""
+
+#: functions.php:499
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:499
+msgid "Edit"
+msgstr ""
+
+#: functions.php:511
+msgid "Awaiting Moderation"
+msgstr ""
+
+#: functions.php:570
+msgid "Name"
+msgstr ""
+
+#: functions.php:576, rcp/register.php:23
+msgid "Email"
+msgstr ""
+
+#: functions.php:582
+msgid "Website"
+msgstr ""
+
+#: functions.php:591
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: functions.php:592
+msgid "Currently logged in as <a href=\"%1$s\">%2$s</a> / <a href=\"%3$s\" title=\"Log out of this account\">Logout</a>"
+msgstr ""
+
+#: functions.php:602
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: functions.php:603, inc/metaboxes/metaboxes.php:211
+msgid "Cancel"
+msgstr ""
+
+#: functions.php:604
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/customizer/customizer.php:39
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:60
+msgid "Max Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:86
+msgid "Mobile Max Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:108
+msgid "General"
+msgstr ""
+
+#: inc/customizer/customizer.php:116
+msgid "My Blog"
+msgstr ""
+
+#: inc/customizer/customizer.php:123
+msgid "Header Tagline"
+msgstr ""
+
+#: inc/customizer/customizer.php:137
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/customizer/customizer.php:152
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:167
+msgid "Hidden Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:168
+msgid "Toggle to enable a sidebar that hides behind the page content."
+msgstr ""
+
+#: inc/customizer/customizer.php:184
+msgid "Infinite Scrolling"
+msgstr ""
+
+#: inc/customizer/customizer.php:185
+msgid "Toggle to enable infinite scrolling on the blogroll and category views."
+msgstr ""
+
+#: inc/customizer/customizer.php:201
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:202
+msgid "Toggle to show categorically related posts on single posts."
+msgstr ""
+
+#: inc/customizer/customizer.php:218
+msgid "Author Byline"
+msgstr ""
+
+#: inc/customizer/customizer.php:219
+msgid "Toggle to show the author byline that appears on posts."
+msgstr ""
+
+#: inc/customizer/customizer.php:235
+msgid "Post Likes"
+msgstr ""
+
+#: inc/customizer/customizer.php:236
+msgid "Toggle to show likes, which appear on the singular post hero area."
+msgstr ""
+
+#: inc/customizer/customizer.php:253
+msgid "MailChimp"
+msgstr ""
+
+#: inc/customizer/customizer.php:267
+msgid "MC4WP Shortcode"
+msgstr ""
+
+#: inc/customizer/customizer.php:268
+msgid "Add a subscribe form to the single post footer using MailChimp for WordPress."
+msgstr ""
+
+#: inc/customizer/customizer.php:276
+msgid "Newsletter Subscribe"
+msgstr ""
+
+#: inc/customizer/customizer.php:282
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:290
+msgid "Subscribe to our email newsletter and receive free stuff, updates & new releases - straight to your inbox."
+msgstr ""
+
+#: inc/customizer/customizer.php:297
+msgid "Paragraph"
+msgstr ""
+
+#: inc/customizer/customizer.php:308
+msgid "RCP"
+msgstr ""
+
+#: inc/customizer/customizer.php:323
+msgid "Login Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:334
+msgid "Register Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:345
+msgid "Lost Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:355
+msgid "404"
+msgstr ""
+
+#: inc/customizer/customizer.php:367
+msgid "404 Custom Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:382
+msgid "404 Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:400
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:416
+msgid "CSS3 Filter"
+msgstr ""
+
+#: inc/icons.php:32
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icons.php:37
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/likes.php:199
+msgid "Unlike"
+msgstr ""
+
+#: inc/likes.php:202
+msgid "Like"
+msgstr ""
+
+#: inc/metaboxes.php:29
+msgid "Page Settings"
+msgstr ""
+
+#: inc/metaboxes.php:38
+msgid "Fullscreen Hero"
+msgstr ""
+
+#: inc/metaboxes.php:47, inc/metaboxes.php:96
+msgid "Subtitle"
+msgstr ""
+
+#: inc/metaboxes.php:55, inc/metaboxes.php:104
+msgid "Hero Background"
+msgstr ""
+
+#: inc/metaboxes.php:64, inc/metaboxes.php:113
+msgid "Hero Video URL"
+msgstr ""
+
+#: inc/metaboxes.php:68, inc/metaboxes.php:117
+msgid "Upload Video"
+msgstr ""
+
+#: inc/metaboxes.php:75, inc/metaboxes.php:124
+msgid "Hero Video Embed"
+msgstr ""
+
+#: inc/metaboxes.php:87
+msgid "Post Settings"
+msgstr ""
+
+#: inc/metaboxes.php:138
+msgid "Audio Post Format"
+msgstr ""
+
+#: inc/metaboxes.php:147
+msgid "Audio File URL"
+msgstr ""
+
+#: inc/metaboxes.php:151
+msgid "Upload Audio"
+msgstr ""
+
+#: inc/metaboxes.php:165
+msgid "Quote Post Format"
+msgstr ""
+
+#: inc/metaboxes.php:174
+msgid "Quote"
+msgstr ""
+
+#: inc/metaboxes.php:182
+msgid "Cite"
+msgstr ""
+
+#: inc/metaboxes.php:197
+msgid "Video Post Format"
+msgstr ""
+
+#: inc/metaboxes.php:206
+msgid "Embed"
+msgstr ""
+
+#: inc/metaboxes.php:207
+msgid "Enter a Youtube or Vimeo URL. Supports services listed <a target=\"_blank\" href=\"http://codex.wordpress.org/Embeds\">here</a>."
+msgstr ""
+
+#: inc/metaboxes.php:222
+msgid "Link Post Format"
+msgstr ""
+
+#: inc/metaboxes.php:231
+msgid "Link Title"
+msgstr ""
+
+#: inc/metaboxes.php:232
+msgid "Add a title for the link."
+msgstr ""
+
+#: inc/metaboxes.php:240
+msgid "Link"
+msgstr ""
+
+#: inc/metaboxes.php:241
+msgid "Add a link to direct your single link post to."
+msgstr ""
+
+#: inc/metaboxes/meta-post.php:20
+msgid "Image/Gallery Post Format Settings"
+msgstr ""
+
+#: inc/metaboxes/meta-post.php:30
+msgid "Browse & Upload"
+msgstr ""
+
+#: inc/metaboxes/meta-post.php:33
+msgid "Randomize Gallery:"
+msgstr ""
+
+#: inc/metaboxes/meta-post.php:36
+msgid "Randomize the gallery on page load."
+msgstr ""
+
+#: inc/metaboxes/meta-team.php:20
+msgid "Team Member Settings"
+msgstr ""
+
+#: inc/metaboxes/meta-team.php:27
+msgid "Role:"
+msgstr ""
+
+#: inc/metaboxes/meta-team.php:28
+msgid "Display this team member&#39;s position."
+msgstr ""
+
+#: inc/metaboxes/meta-team.php:34
+msgid "Quote:"
+msgstr ""
+
+#: inc/metaboxes/meta-team.php:35
+msgid "Display a small quote on image hover."
+msgstr ""
+
+#: inc/metaboxes/meta-team.php:41
+msgid "External URL:"
+msgstr ""
+
+#: inc/metaboxes/meta-team.php:42
+msgid "Insert a URL to link this team member to."
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:88, inc/metaboxes/metaboxes.php:136
+msgid "Insert"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:142, inc/metaboxes/metaboxes.php:258
+msgid "Saving..."
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:198
+msgid "Create Gallery"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:205, inc/metaboxes/metaboxes.php:212, inc/metaboxes/metaboxes.php:321, inc/metaboxes/metaboxes.php:323
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:248
+msgid "Save Gallery"
+msgstr ""
+
+#: inc/metaboxes/metaboxes.php:408
+msgid "Yes, please do"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgid "Posts in: %s"
+msgstr ""
+
+#: inc/template-tags.php:94
+msgid "Posts tagged: %s"
+msgstr ""
+
+#: inc/template-tags.php:97, inc/template-tags.php:99, inc/template-tags.php:101
+msgid "Archive for: %s"
+msgstr ""
+
+#: inc/template-tags.php:103
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:112
+msgid "Posts by %s"
+msgstr ""
+
+#: inc/template-tags.php:118
+msgid "Results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/template-tags.php:244
+msgid "Play"
+msgstr ""
+
+#: inc/template-tags.php:245
+msgid "Pause"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:23
+msgid "Flickr Photos"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:24
+msgid "Add a Flickr feed widget."
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:115
+msgid "Title / Intro:"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:124
+msgid "Flickr ID:"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:129
+msgid "Type:"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:147
+msgid "Display:"
+msgstr ""
+
+#: loop-team.php:51
+msgid "[Edit]"
+msgstr ""
+
+#: rcp/change-password.php:7
+msgid "Password changed successfully"
+msgstr ""
+
+#: rcp/change-password.php:13
+msgid "New Password"
+msgstr ""
+
+#: rcp/change-password.php:17
+msgid "Password Confirm"
+msgstr ""
+
+#: rcp/change-password.php:24
+msgid "Change Password"
+msgstr ""
+
+#: rcp/login.php:11, rcp/login.php:44, rcp/register.php:14, template-rcp.php:27
+msgid "Username"
+msgstr ""
+
+#: rcp/login.php:15, rcp/login.php:45, rcp/register.php:32, template-rcp.php:29
+msgid "Password"
+msgstr ""
+
+#: rcp/login.php:30
+msgid "Don&#39t have an account? Subscribe now &rarr;"
+msgstr ""
+
+#: rcp/login.php:34
+msgid "Lost your password?"
+msgstr ""
+
+#: rcp/login.php:52
+msgid "Oh yea, I&#39;m already logged in. Take me back &rarr;"
+msgstr ""
+
+#: rcp/profile-editor.php:17
+msgid "Success"
+msgstr ""
+
+#: rcp/profile-editor.php:17
+msgid "Your profile has been updated."
+msgstr ""
+
+#: rcp/profile-editor.php:19
+msgid "Edit your Account Information"
+msgstr ""
+
+#: rcp/profile-editor.php:26
+msgid "Personal Info"
+msgstr ""
+
+#: rcp/profile-editor.php:28
+msgid "First Name"
+msgstr ""
+
+#: rcp/profile-editor.php:32
+msgid "Last Name"
+msgstr ""
+
+#: rcp/profile-editor.php:36, template-rcp-lostpass.php:39, template-rcp.php:28
+msgid "Email Address"
+msgstr ""
+
+#: rcp/profile-editor.php:40
+msgid "Modify Password"
+msgstr ""
+
+#: rcp/profile-editor.php:51
+msgid "Save Changes"
+msgstr ""
+
+#: rcp/profile-editor.php:55
+msgid "After changing your password, you must log back in"
+msgstr ""
+
+#: rcp/profile-editor.php:59
+msgid "Enter a new password"
+msgstr ""
+
+#: rcp/profile-editor.php:60, template-rcp.php:30
+msgid "Confirm Password"
+msgstr ""
+
+#: rcp/profile-editor.php:67
+msgid "Login to edit your profile."
+msgstr ""
+
+#: rcp/register.php:36
+msgid "Password Again"
+msgstr ""
+
+#: rcp/register.php:50
+msgid "Choose your subscription level"
+msgstr ""
+
+#: rcp/register.php:68
+msgid "free"
+msgstr ""
+
+#: rcp/register.php:69
+msgid "unlimited"
+msgstr ""
+
+#: rcp/register.php:78
+msgid "You have not created any subscription levels yet"
+msgstr ""
+
+#: rcp/register.php:86
+msgid "Discount Code"
+msgstr ""
+
+#: rcp/register.php:87
+msgid "Valid"
+msgstr ""
+
+#: rcp/register.php:88
+msgid "Invalid"
+msgstr ""
+
+#: rcp/register.php:106
+msgid "Choose Your Payment Method"
+msgstr ""
+
+#: rcp/register.php:121
+msgid "Create your Account"
+msgstr ""
+
+#: rcp/register.php:128
+msgid "Already have an account? Login &rarr;"
+msgstr ""
+
+#: searchform.php:12, searchform.php:12, searchform.php:12
+msgid "Click to search..."
+msgstr ""
+
+#: single.php:196
+msgid "Pages:"
+msgstr ""
+
+#: template-rcp-lostpass.php:34
+msgid "Nevermind, I remember now"
+msgstr ""
+
+#: template-rcp-lostpass.php:49, template-rcp.php:40
+msgid "You are already logged in. Go back &rarr;"
+msgstr ""
